@@ -26,3 +26,12 @@ div#conteudolateral2 {
     margin-left: 650px;
     
 }   
+footer#competencias {
+    text-align: center;
+    display:block;
+    position: relative;
+    color: white;
+    font-size: bold;
+    background-color: rgba(128, 128, 128, 0.5);
+    margin-top: 30px;
+}
