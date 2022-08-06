@@ -1,0 +1,172 @@
+@charset "UTF-8";
+
+header {
+    text-align: left;
+    text-indent: 350px;
+    color: white;
+    margin-bottom: -20px;
+    margin-top: -20px;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3);
+}
+
+body{
+    width: 100%;
+    width: 1000px;
+    height: 100%;
+    display: block;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.780);
+}
+section#conteudo-principal {
+    display: block;
+    width: 100%;
+    box-shadow: 3px 3px 5px black;
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+div#corpo {
+    display: block;
+    width: 100%;
+    box-shadow: 3px 3px 5px black;
+    background-color: black;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-size: bold;
+    background-color: rgba(128, 128, 128, 0.5);
+    margin-top: 30px;
+}
+
+nav#menu {
+    display: block;
+    width: 170px;
+    background-color: black;
+    margin-bottom: 25px;
+    padding: 0px;
+    height: 500px;
+}
+nav#menu h1 {
+    text-align: center;
+    vertical-align: auto;
+    padding-top:3px;
+    margin-bottom: -5px;
+    color: black;
+    text-shadow: 1px 1px 1px black;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+nav#menu ul {
+    list-style: none;   
+    border-width: 160px;
+    text-align: center;
+    margin-left: -7px;
+    margin-right: 35px;
+    margin-top: 30px;
+
+}
+nav#menu li{
+    padding: 2px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:gray;
+}
+nav#menu li.pgatual {
+    background-color: white;
+}
+
+nav#menu li:hover {
+    background-color: white;
+    color: black;
+}
+
+section#conteudo-principal a {
+    text-decoration: none;
+}
+
+div#telaprincipal h2#assinatura {
+    margin-top: 300px;
+    color: rgba(255, 255, 255, 0.4);
+
+}
+
+
+div#conteudolateral1 img#fotolat1{
+    width: 348px;
+    height: 250px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+div#conteudolateral2 section#facebook {
+    display: inline-block;
+    border-radius: 5px solid white;
+    width: 100px;
+    height: 60px;
+    margin-left: 13px;
+    vertical-align: middle;
+    padding-right: 6px;
+}
+div#conteudolateral2 section#instagran {
+    display: inline-block;
+    border-radius: 5px solid white;
+    width: 90px;
+    height: 60px;
+    vertical-align: middle;
+    padding-right: 15px;
+}
+div#conteudolateral2 section#linkedin {
+    display: inline-block;
+    border-radius: 5px solid white;
+    width: 90px;
+    height: 60px;
+    margin-right: 16px;
+    vertical-align: middle;
+    padding-bottom: 0px;
+}
+div#conteudolateral2 h1{
+    color: white;
+    text-align: center;
+}
+div#conteudolateral2 h2{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15pt;
+    margin-top: -10px;
+}
+
+
+div#conteudolateral2 section.redes {
+    text-align: center;
+    width: 360px;
+    margin-left: 0px;
+    padding-top: 20px;
+    
+}
+div#conteudolateral2 img {
+    display: block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border: 1px 1px 1px solid black;
+
+}
+
+div#conteudolateral2 section.redes img#face {
+    margin-top: -20px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+    
+}
+div#conteudolateral2 section.redes img#insta {
+    margin-top: -20px;
+    margin-bottom: 200px;
+    border-radius: 15px;
+}
+div#conteudolateral2 section.redes img#linkedin {
+    margin-top: -20px;
+    margin-bottom: 200px;
+    border-radius: 15px;
+}
+
