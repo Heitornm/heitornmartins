@@ -50,7 +50,8 @@ div#conteudolateral2 {
     
 }
 
-footer#cursos {
+footer#cursos{
+    position: relative;
     text-align: center;
     color: white;
     font-size: bold;
