@@ -91,7 +91,8 @@ div#conteudolateral1 {
     height: 250px;    
     margin-right: 0px;
     margin-left: 650px;
-    margin-bottom: 1500px;
+    margin-bottom: 0px;
+   
 }
 div#conteudolateral2 {
     display: block;
