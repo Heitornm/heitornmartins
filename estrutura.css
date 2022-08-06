@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 header {
+    width: 1000px;
     text-align: left;
     text-indent: 350px;
     color: white;
@@ -25,11 +26,12 @@ section#conteudo-principal {
 
 div#corpo {
     display: block;
-    width: 100%;
+    width: 1000px;
     box-shadow: 3px 3px 5px black;
     background-color: black;
 }
 footer{
+    width: 1000px;
     text-align: center;
     color: white;
     font-size: bold;
