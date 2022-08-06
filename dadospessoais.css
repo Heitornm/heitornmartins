@@ -52,3 +52,11 @@ div#conteudolateral2 {
     margin-left: 650px;
     
 }
+
+footer#dados {
+    text-align: center;
+    color: white;
+    font-size: bold;
+    background-color: rgba(128, 128, 128, 0.5);
+    margin-top: 30px;
+}
