@@ -35,6 +35,7 @@ footer{
     font-size: bold;
     background-color: rgba(128, 128, 128, 0.5);
     margin-top: 30px;
+    max-width: 1000px;
 }
 
 nav#menu {
@@ -169,6 +170,3 @@ div#conteudolateral2 section.redes img#linkedin {
     border-radius: 15px;
 }
 
-footer {
-width: 1000px;
-}
