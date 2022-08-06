@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 header {
+    width: 900px;
     text-align: left;
     text-indent: 350px;
     color: white;
