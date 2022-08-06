@@ -105,8 +105,14 @@ div#conteudolateral2 {
     padding-bottom: 10px;
     
 }
+
 footer#exp {
-    margin-top: 290px;
+    text-align: center;
+    color: white;
+    font-size: bold;
+    background-color: rgba(128, 128, 128, 0.5);
+    margin-top: 30px;
+}
 }
 div#corpoexp {
     height: 500px;
