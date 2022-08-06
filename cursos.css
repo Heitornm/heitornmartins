@@ -31,7 +31,7 @@ td{
 
 div#conteudolateral1 {
     display: block;
-    position: absolute;
+    position: relative;
     width: 350px;
     height: 250px;    
     margin-top: -535px;
