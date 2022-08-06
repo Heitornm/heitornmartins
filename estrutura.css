@@ -28,6 +28,7 @@ div#corpo {
     width: 1000px;
     box-shadow: 3px 3px 5px black;
     background-color: black;
+    margin-right: 400px;
 }
 footer{
     text-align: center;
