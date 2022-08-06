@@ -53,5 +53,9 @@ input#enviar {
     margin-left: 350px;
 }
 footer#falecomigo {
-    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: bold;
+    background-color: rgba(128, 128, 128, 0.5);
+    margin-top: 30px;
 }
