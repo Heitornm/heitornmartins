@@ -36,6 +36,7 @@ footer{
     background-color: rgba(128, 128, 128, 0.5);
     margin-top: 30px;
     max-width: 1000px;
+    width: auto;
 }
 
 nav#menu {
