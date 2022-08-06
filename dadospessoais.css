@@ -53,7 +53,8 @@ div#conteudolateral2 {
     
 }
 
-footer#dados {
+footer#dados{
+    position: relative;
     text-align: center;
     color: white;
     font-size: bold;
