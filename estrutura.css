@@ -27,13 +27,6 @@ div#corpo {
     box-shadow: 3px 3px 5px black;
     background-color: black;
 }
-footer{
-    text-align: center;
-    color: white;
-    font-size: bold;
-    background-color: rgba(128, 128, 128, 0.5);
-    margin-top: 30px;
-}
 
 nav#menu {
     display: block;
