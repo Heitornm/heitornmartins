@@ -25,7 +25,7 @@ section#conteudo-principal {
 
 div#corpo {
     display: block;
-    width: auto;
+    width: 1000px;
     box-shadow: 3px 3px 5px black;
     background-color: black;
 }
