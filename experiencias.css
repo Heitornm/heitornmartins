@@ -86,7 +86,7 @@ div#experiencias {
 }
 div#conteudolateral1 {
     display: block;
-    position: relative;
+    position: absolute;
     width: 350px;
     height: 250px;    
     margin-right: 0px;
